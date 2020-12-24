@@ -1,0 +1,32 @@
+body{
+    background-color: #3B60E4;
+    padding: 2.5%;
+    color: whitesmoke;
+}
+
+.color1{
+    background-color: #7765E3;
+    padding: 2%;
+}
+
+.color2{
+    background-color: #C8ADC0;
+    padding: 2%;
+}
+
+.form-group{
+    margin: 10px;
+}
+
+.enter-marks{
+    color:white;
+}
+
+.container{
+    margin: 10px;
+    margin-top:50px;
+}
+
+.text{
+    margin-top: 5px;
+}
